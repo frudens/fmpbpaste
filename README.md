@@ -93,9 +93,3 @@ The Clipboard is not set with FileMaker XML.
 (cmd) teruhiro@MacBook-Pro-13:~ $ Downloads/Products/usr/local/bin/fmpbpaste | xmllint --format --encode utf8 - | vim -
 ```
 
-
-
-
-
-
-
